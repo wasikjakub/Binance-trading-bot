@@ -1,3 +1,4 @@
-# Binance-trading-bot
-My approach to algorithmic trading <br />
-Using Machine Learning for predicting loss/gain for the upcoming day
+# trading-bot
+My approach to algorithmic trading: <br />
+- Classic strategies: SMA, Bollinger Bands, RSI <br />
+- Using Machine Learning for predicting loss or gain for the next day.
