@@ -1,2 +1,3 @@
 # Binance-trading-bot
-My approach for algorithmic trading and using Machine LEarning for predicting loss/gain for the upcoming day
+My approach to algorithmic trading <br />
+Using Machine Learning for predicting loss/gain for the upcoming day
